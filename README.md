@@ -33,42 +33,7 @@
 <br>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="25%">
-        <div style="padding: 20px; border-radius: 15px;">
-          <img src="https://img.icons8.com/nolan/96/graduation-cap.png" alt="Education" />
-          <h4>🎓 Education</h4>
-          <p><strong>B.E. Computer Science</strong><br>📍 JEC '26<br>🌟 Building the future</p>
-        </div>
-      </td>
-      <td align="center" width="25%">
-        <div style="padding: 20px; border-radius: 15px;">
-          <img src="https://img.icons8.com/nolan/96/rocket.png" alt="Passion" />
-          <h4>💡 Innovation</h4>
-          <p><strong>Tech Visionary</strong><br>🔥 Creating solutions<br>🚀 Pushing boundaries</p>
-        </div>
-      </td>
-      <td align="center" width="25%">
-        <div style="padding: 20px; border-radius: 15px;">
-          <img src="https://img.icons8.com/nolan/96/trophy.png" alt="Hackathons" />
-          <h4>🏆 Achievements</h4>
-          <p><strong>Hackathon Veteran</strong><br>⚡ Multiple wins<br>🎯 Creative solutions</p>
-        </div>
-      </td>
-      <td align="center" width="25%">
-        <div style="padding: 20px; border-radius: 15px;">
-          <img src="https://img.icons8.com/nolan/64/training.png" alt="Coding Club" />
-          <h4>👨‍🏫 Coding Club</h4>
-          <p>📚 Mentoring developers<br>🎓 Conducting workshops<br>🤝 Building community</p>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gokkull-15&theme=radical" alt="Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xgokkull&theme=radical" alt="Profile Summary" />
 </div>
 
 ---
