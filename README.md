@@ -110,51 +110,6 @@
 
 ---
 
-## <div align="center">💼 Professional Journey</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <div style="padding: 20px; border-radius: 15px;">
-          <img src="https://img.icons8.com/nolan/64/software-installer.png" alt="Zeit Software" />
-          <h3>🚀 Zeit Software</h3>
-          <h4><strong>Software Engineer Intern</strong></h4>
-          <p>🔧 Building innovative software solutions<br>⚡ Full-stack development<br>🎯 Performance optimization</p>
-        </div>
-      </td>
-      <td align="center" width="50%">
-        <div style="padding: 20px; border-radius: 15px;">
-          <img src="https://img.icons8.com/nolan/64/test-tube.png" alt="Okto" />
-          <h3>🧪 Okto</h3>
-          <h4><strong>Version 2 Tester</strong></h4>
-          <p>🔍 Quality assurance & testing<br>🐛 Bug detection & resolution<br>✅ Ensuring seamless user experience</p>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="50%">
-        <div style="padding: 20px; border-radius: 15px;">
-          <img src="https://img.icons8.com/nolan/64/security-checked.png" alt="SecuredApp" />
-          <h3>🔐 SecuredApp</h3>
-          <h4><strong>Software Engineer Intern</strong></h4>
-          <p>🛡️ Developing secure applications<br>🔒 Implementing security protocols<br>⚖️ Ensuring data protection</p>
-        </div>
-      </td>
-      <td align="center" width="50%">
-        <div style="padding: 20px; border-radius: 15px;">
-          <img src="https://img.icons8.com/nolan/64/training.png" alt="Coding Club" />
-          <h3>👨‍🏫 Coding Club</h3>
-          <h4><strong>Resource Person</strong></h4>
-          <p>📚 Mentoring fellow developers<br>🎓 Conducting workshops<br>🤝 Building coding community</p>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 ## <div align="center">📊 GitHub Analytics</div>
 
 <div align="center">
