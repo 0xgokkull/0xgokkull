@@ -161,21 +161,21 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=gokkull-15&show_icons=true&theme=radical&count_private=true&include_all_commits=true&border_radius=15&bg_color=0D1117&border_color=30363D" alt="GitHub stats" width="400" />
+        <img src="https://github-readme-stats.vercel.app/api?username=0xgokkull&show_icons=true&theme=radical&count_private=true&include_all_commits=true&border_radius=15&bg_color=0D1117&border_color=30363D" alt="GitHub stats" width="400" />
       </td>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokkull-15&layout=compact&theme=radical&border_radius=15&bg_color=0D1117&border_color=30363D" alt="Top languages" width="400" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xgokkull&layout=compact&theme=radical&border_radius=15&bg_color=0D1117&border_color=30363D" alt="Top languages" width="400" />
       </td>
     </tr>
   </table>
   
   <br>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gokkull-15&theme=radical&border_radius=15&background=0D1117&border=30363D" alt="GitHub streak" width="500" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xgokkull&theme=radical&border_radius=15&background=0D1117&border=30363D" alt="GitHub streak" width="500" />
   
   <br><br>
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gokkull-15&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area=true&hide_border=true&border_radius=15" alt="Activity Graph" width="800" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xgokkull&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area=true&hide_border=true&border_radius=15" alt="Activity Graph" width="800" />
 </div>
 
 <div align="center">
@@ -208,7 +208,7 @@
         <p><strong>💼 Connect professionally</strong><br>Let's network & grow together</p>
       </td>
       <td align="center" width="33%">
-        <a href="https://x.com/Gokkull15">
+        <a href="https://x.com/0xgokkull">
           <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&logoWidth=20" alt="Twitter" />
         </a>
         <br><br>
