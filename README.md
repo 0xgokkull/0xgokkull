@@ -13,7 +13,7 @@
 
 
 <div align="center">
-  <h3>🚀 Exploring technology, building solutions, and aiming to be <b>Plus Ultra</b>!</h3>
+  <h3>Exploring technology, building solutions, and aiming to be <b>Plus Ultra</b>!</h3>
   
   <img src="https://komarev.com/ghpvc/?username=gokkull-15&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </div>
@@ -24,7 +24,7 @@
 
 ---
 
-## <div align="center">✨ About Me</div>
+## <div align="center">About Me</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Problem+Solver;Tech+Enthusiast;Hackathon+Warrior;Always+Learning+%26+Growing" alt="Typing SVG" />
@@ -38,7 +38,7 @@
 
 ---
 
-## <div align="center">🛠 Tech Arsenal</div>
+## <div align="center">Tech Arsenal</div>
 
 <div align="center">
   
@@ -75,21 +75,21 @@
 
 ---
 
-## <div align="center">📊 GitHub Analytics</div>
+## <div align="center">GitHub Analytics</div>
 
 <div align="center">
   
-  <br><br>
+  <br>
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xgokkull&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area=true&hide_border=true&border_radius=15" alt="Activity Graph" width="800" />
 </div>
 
 ---
 
-## <div align="center">🤝 Let's Connect!</div>
+## <div align="center">Let's Connect!</div>
 
 <div align="center">
-  <h3>Ready to collaborate? Let's build something amazing together! 🚀</h3>
+  <h3>Ready to collaborate? Let's build something amazing together!</h3>
   
   <table>
     <tr>
@@ -98,21 +98,21 @@
           <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20" alt="Email" />
         </a>
         <br><br>
-        <p><strong>📧 Drop me an email</strong><br>gokkull04@gmail.com</p>
+        <p><strong>Drop me an email</strong><br>gokkull04@gmail.com</p>
       </td>
       <td align="center" width="33%">
         <a href="https://www.linkedin.com/in/gokkull-s">
           <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20" alt="LinkedIn" />
         </a>
         <br><br>
-        <p><strong>💼 Connect professionally</strong><br>Let's network & grow together</p>
+        <p><strong>Connect professionally</strong><br>Let's network & grow together</p>
       </td>
       <td align="center" width="33%">
         <a href="https://x.com/0xgokkull">
           <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&logoWidth=20" alt="Twitter" />
         </a>
         <br><br>
-        <p><strong>🐦 Follow my journey</strong><br>Tech updates & insights</p>
+        <p><strong>Follow my journey</strong><br>Tech updates & insights</p>
       </td>
     </tr>
   </table>
