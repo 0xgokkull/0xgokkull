@@ -105,7 +105,7 @@
           <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20" alt="LinkedIn" />
         </a>
         <br><br>
-        <p><strong>Connect professionally</strong></p>
+        <p><strong>Connect professionally & Netword</strong><br></p>
       </td>
       <td align="center" width="33%">
         <a href="https://x.com/0xgokkull">
