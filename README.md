@@ -78,30 +78,10 @@
 ## <div align="center">📊 GitHub Analytics</div>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=0xgokkull&show_icons=true&theme=radical&count_private=true&include_all_commits=true&border_radius=15&bg_color=0D1117&border_color=30363D" alt="GitHub stats" width="400" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xgokkull&layout=compact&theme=radical&border_radius=15&bg_color=0D1117&border_color=30363D" alt="Top languages" width="400" />
-      </td>
-    </tr>
-  </table>
-  
-  <br>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xgokkull&theme=radical&border_radius=15&background=0D1117&border=30363D" alt="GitHub streak" width="500" />
   
   <br><br>
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xgokkull&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area=true&hide_border=true&border_radius=15" alt="Activity Graph" width="800" />
-</div>
-
-<div align="center">
-  
-  > ⚠️ **Note:** If stats fail to load, it may be due to API limits or network restrictions.
-  
 </div>
 
 ---
